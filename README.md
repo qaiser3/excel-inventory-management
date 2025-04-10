@@ -1,2 +1,2 @@
-# excel-inventory-management
-Dashboard inventory management system in excel
+# Excel-inventory-management software
+Dashboard inventory management software in excel
